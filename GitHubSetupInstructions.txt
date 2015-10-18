@@ -1,0 +1,4 @@
+1) Download and install from https://help.github.com/
+	-Alternatively be brave and try chocolately
+2) Login and sync to repository
+3) Start as you mean to go on...
